@@ -64,9 +64,9 @@
 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
+🤝 About to score [this bounty](https://github.com/italanta/elewa-group/issues/24)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+<!-- 👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta) -->
 
 ### Interested ?
 
@@ -97,7 +97,7 @@
 
 <!-- Link in this table your actual contributions -->
 <h1>My experience</h1>
-#
+
 <!-- EXPERIENCE I -->
 <h2 align="left">Project Elewa-group</h2>
 
@@ -108,9 +108,9 @@
 </p> -->
 <!-- <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
-</p>
-<br/> -->
+  <!-- I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
+</p> -->
+<!-- <br/> --> 
 
 <!-- Link in this table your actual contributions -->
 ### My contributions
